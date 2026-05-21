@@ -77,7 +77,8 @@ CP3_mobile/
 
 ## 📸 Capturas de Tela (Mockup)
 
-![Interface do Aplicativo](./assets/dynamic_form_mockup.png)
+<img width="1914" height="939" alt="image" src="https://github.com/user-attachments/assets/5564d8aa-9d8b-45ba-9af7-f41dc628e9e8" />
+
 
 ---
 

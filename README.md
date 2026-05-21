@@ -102,9 +102,3 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu computado
    ```
 
 ---
-
-## 👥 Integrantes
-
-- Nome do Integrante 1 — RMxxxxx
-- Nome do Integrante 2 — RMxxxxx
-- Nome do Integrante 3 — RMxxxxx

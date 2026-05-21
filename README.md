@@ -5,10 +5,15 @@ Este é um aplicativo mobile desenvolvido com **React Native, Expo SDK 55, TypeS
 ---
 # Grupo
 Diogo Julio - RM553837
+
 Vinicius Silva - RM553240
+
 Victor Didoff - RM552965
+
 Matheus Zottis - RM94119
+
 Jonata Rafael - RM552939
+
 ---
 
 ## 🚀 Tecnologias Utilizadas

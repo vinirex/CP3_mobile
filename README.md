@@ -3,6 +3,13 @@
 Este é um aplicativo mobile desenvolvido com **React Native, Expo SDK 55, TypeScript e AsyncStorage**. O objetivo principal do projeto é renderizar dinamicamente um formulário completo a partir de uma estrutura de configuração em formato JSON, simulando cenários corporativos reais.
 
 ---
+# Grupo
+Diogo Julio - RM553837
+Vinicius Silva - RM553240
+Victor Didoff - RM552965
+Matheus Zottis - RM94119
+Jonata Rafael - RM552939
+---
 
 ## 🚀 Tecnologias Utilizadas
 
